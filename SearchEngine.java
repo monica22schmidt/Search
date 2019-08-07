@@ -4,9 +4,9 @@
 // Files: SearchEngine WebPageNode
 // Course: CS 300 Spring 2018
 //
-// Author: Samuel Topel
-// Email: stopel2@wisc.edu
-// Lecturer's Name: Gary Dahl
+// Author: Monica Schmidt
+// Email: meschmidt6@wisc.edu
+// Lecturer's Name: Alexi Brooks
 ///////////////////////////// CREDIT OUTSIDE HELP /////////////////////////////
 //
 // Students who get help from sources other than their partner must fully
@@ -27,7 +27,7 @@ import java.util.Scanner;
  *
  *
  * 
- * @author Samuel Topel
+ * @author Monica Schmidt
  */
 public class SearchEngine {
     private WebPageNode root;
